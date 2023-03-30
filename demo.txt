@@ -1,3 +1,7 @@
 Suhail is a good person
+<<<<<<< HEAD
 
 shafi pp
+=======
+he didn't know that. if he want to know, when he push data  to git hub it shows error becouse i did edit here
+>>>>>>> 5bf090db8767272f1f4414abbf71753c29aca18f
